@@ -1,0 +1,36 @@
+{
+  "Atores": [
+    {
+      "Primeiro_nome": "João",
+      "Último_nome": "Monteiro",
+      "Idade": 45
+    },
+    {
+      "Primeiro_nome": "Gonçalo",
+      "Último_nome": "Freitas",
+      "Idade": 49
+    },
+    {
+      "Primeiro_nome": "Pedro",
+      "Último_nome": "Jerónimo",
+      "Idade": 42
+    }
+  ],
+  "Filmes": [
+    {
+      "Título": "Noite",
+      "Estreia": 2024,
+      "Género": "Terror"
+    },
+    {
+      "Título": "Terra",
+      "Estreia": 2024,
+      "Género": "Romance"
+    },
+    {
+      "Título": "Mar",
+      "Estreia": 2024,
+      "Género": "Aventura"
+    }
+  ]
+}
